@@ -1,5 +1,6 @@
-# fire-DOOM
-Eu estava atoa a Internet quando achei o canal do filipedeschamps que me ensiou a criar esse projeto
+
+   <h1 align="center">fire-DOOM </h1>
+<p align="center">Eu estava à toa na Internet quando achei o canal do filipedeschamps que me ensiou a criar esse projeto</p>
 <br>
 <h2>Projeto Final:</h2>
 
@@ -41,9 +42,8 @@ Eu estava atoa a Internet quando achei o canal do filipedeschamps que me ensiou 
 <br>
 </details>
 
-<footer>
-   //Valeu Por Ler! 
-    <br>
+<p align="center">
+    //🔖Obrigado por Ler!
     <br>
     &copy;Henry Thomaz
-</footer>
+</p>
