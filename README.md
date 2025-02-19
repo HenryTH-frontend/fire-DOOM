@@ -9,23 +9,23 @@
 <details>
 <summary><h2>//Explicações</h2></summary>
 <br>
-<h2>O projeto é separado em três partes:</h2>
+<h2>O projeto é separado em três principais partes:</h2>
   //Estrutura de Dados:
 
-      fireDataEstrutucture() {
-      
+      createFireDataEstrutucture() {
+      //   Aqui é criado os elemetos do nosso array do tamanho do fogo
       }
   <hr>
   //Algoritmo:
 
-      firePropagation() {
-
+      calculateFirePropagation() {
+      //   Bom aqui a magia acontece resumido o código ele pega um indice de baixo e verifica seu valor de cor assim se atualizado para um valor -1 ou seja vai fazer um degrade a tabela daí é só a gnte dar um valor randomico em vez de ser -1 fixo assim podmos ver o resultado do fogo mas o vento nós fazemos atualizando o pixel de cima e o do lado dando o efeito de vento sugiro ver os vídeos qu dixi de referência que deixei abaixo! O filipe sensacional!!! 
       }
   <hr>
   //Renderização:
 
       renderFire() {
-
+      //   Para cada liha e coluna que são só dados abstratos em uma tabela e sim o fogo é uma tabela! Além de pegar cada posição do objto de paleta e atribuir a uma constant colorString que atualiza os dados da tabela em cores
       }
 </details>
 <hr>
