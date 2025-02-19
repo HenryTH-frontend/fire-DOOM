@@ -2,7 +2,8 @@
 Eu estava atoa a Internet quando achei o canal do filipedeschamps que me ensiou a criar esse projeto
 <br>
 <h2>Projeto Final:</h2>
-<p><a>link</a></p>
+
+[projeto-fogoDOOM](https://henryth-frontend.github.io/fire-DOOM/)
 <hr>
 <details>
 <summary><h2>//Explicações</h2></summary>
@@ -30,12 +31,13 @@ Eu estava atoa a Internet quando achei o canal do filipedeschamps que me ensiou 
 <details>
   <summary><h2>//Referências</h2></summary>
 <hr>
-<h4>FelipeDeschamps</h4>
-<a>https://www.youtube.com/@FilipeDeschamps/</a>
+<h4>FilipeDeschamps</h4>
+  
+[canal-do-filipe](https://www.youtube.com/@FilipeDeschamps/)
 <br>
-<a>https://www.youtube.com/watch?v=HCjDjsHPOco</a>
+[projeto-video1](https://www.youtube.com/watch?v=HCjDjsHPOco)
 <br>
-<a>https://www.youtube.com/watch?v=fxm8cadCqbs</a>
+[projeto-video2](https://www.youtube.com/watch?v=fxm8cadCqbs)
 <br>
 </details>
 
