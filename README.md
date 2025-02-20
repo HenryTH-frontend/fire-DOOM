@@ -4,7 +4,7 @@
 <br>
 <h2>Projeto Final:</h2>
 
-[projeto-fogoDOOM](https://henryth-frontend.github.io/fire-DOOM/)
+[projeto-fogoDOOM](https://henrythomaz.github.io/fire-DOOM/)
 <hr>
 <details>
 <summary><h2>//Explicações</h2></summary>
